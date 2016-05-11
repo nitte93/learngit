@@ -1,0 +1,3 @@
+'m a file inside master branch.
+You can not find me inside any other branches, unless you merge me.
+
