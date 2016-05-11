@@ -1,3 +1,4 @@
 I'm a file inside branch 1.
 You can not find me inside any other branches, Unless you merge me with them.
 
+Added some new line.
